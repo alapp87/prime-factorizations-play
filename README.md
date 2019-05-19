@@ -1,5 +1,7 @@
 # Prime Factorization Play
 
+[![Build Status](https://travis-ci.org/alapp87/prime-factorizations-play.svg?branch=master)](https://travis-ci.org/alapp87/prime-factorizations-play)
+
 This project will calculate prime factors of a given number. A prime number is a whole number greater than 1 whose only
 factors are 1 and itself. Prime factors are prime numbers that can be multiplied together to get the original number.
 
